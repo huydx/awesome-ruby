@@ -1,5 +1,7 @@
 # <a href="http://marcanguera.net/awesome-ruby"><img src="https://raw.githubusercontent.com/markets/awesome-ruby/gh-pages/images/logo.png" align="absmiddle"/></a> Awesome Ruby
 
+[![Join the chat at https://gitter.im/huydx/awesome-ruby](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/huydx/awesome-ruby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 A collection of awesome Ruby libraries, tools, frameworks and software. The essential Ruby to build modern Apps and Web Apps.
 
 Inspired by the `awesome-*` trend on GitHub.
@@ -356,7 +358,6 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 ## Game Development
 
 * [Gosu](http://www.libgosu.org) - A 2D game development library for the Ruby and C++ programming languages
-* [Yeah](https://github.com/yeahrb/yeah) - Practical Ruby video game framework
 
 ## Geolocation
 
@@ -489,14 +490,12 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * Packages and Applications
   * [Berkshelf](https://github.com/berkshelf/berkshelf) - A Chef Cookbook manager
   * [CocoaPods](https://github.com/CocoaPods/CocoaPods) - The Objective-C dependency manager
-  * [fpm](https://github.com/jordansissel/fpm) - Effing package management! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity
   * [Homebrew-cask](https://github.com/caskroom/homebrew-cask) - a CLI workflow for the administration of Mac applications distributed as binaries
   * [Homebrew](https://github.com/Homebrew/homebrew) - The missing package manager for OS X
 
 ## Pagination
 
 * [Kaminari](https://github.com/amatsuda/kaminari) - A Scope & Engine based, clean, powerful, customizable and sophisticated paginator for modern web app frameworks and ORMs
-* [order_query](https://github.com/glebm/order_query) - A keyset pagination library to find the next or previous record(s) relative to the current one efficiently, e.g. for infinite scroll.
 * [will_paginate](https://github.com/mislav/will_paginate) - A pagination library that integrates with Ruby on Rails, Sinatra, Merb, DataMapper and Sequel
 
 ## PDF
@@ -648,7 +647,6 @@ Best suited for map-reduce or e.g. parallel downloads/uploads
 
 ## Third-party APIs
 
-* [databasedotcom](https://github.com/heroku/databasedotcom) - Ruby client for the Salesforce's Database.com and Chatter APIs
 * [Dropbox](https://github.com/futuresimple/dropbox-api) - Dropbox API Ruby Client.
 * [facy](https://github.com/huydx/facy) - Command line power tool for facebook
 * [fb_graph](https://github.com/nov/fb_graph) - A full-stack Facebook Graph API wrapper
@@ -695,7 +693,6 @@ Best suited for map-reduce or e.g. parallel downloads/uploads
 * [Roda](http://roda.jeremyevans.net/) - A routing tree web framework
 * [Ruby on Rails](http://rubyonrails.org) - A web-application framework that includes everything needed to create database-backed web applications according to the Model-View-Controller (MVC) pattern
 * [Sinatra](http://www.sinatrarb.com) - Classy web-development dressed in a DSL
-* [Volt](https://github.com/voltrb/volt) - A Ruby web framework where your ruby code runs on both the server and the client
 
 ## Web Servers
 
@@ -735,7 +732,6 @@ Best suited for map-reduce or e.g. parallel downloads/uploads
 
 * [GemBundle](http://www.gembundle.com) - A place to discover new Ruby Gems
 * [GitHub Explore](https://github.com/explore)
-* [Practicing Ruby](https://practicingruby.com) - Delightful lessons for dedicated programmers
 * [Ruby Weekly](http://rubyweekly.com) - A free, once–weekly e-mail round-up of Ruby news and articles
 * [Ruby5](http://ruby5.envylabs.com) - The latest news in the Ruby and Rails community
 * [RubyDaily](http://rubydaily.org) - Community driven news
