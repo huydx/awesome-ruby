@@ -1,5 +1,7 @@
 # <a href="http://marcanguera.net/awesome-ruby"><img src="https://raw.githubusercontent.com/markets/awesome-ruby/gh-pages/images/logo.png" align="absmiddle"/></a> Awesome Ruby
 
+[![Join the chat at https://gitter.im/huydx/awesome-ruby](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/huydx/awesome-ruby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 A collection of awesome Ruby libraries, tools, frameworks and software. The essential Ruby to build modern Apps and Web Apps.
 
 Inspired by the `awesome-*` trend on GitHub.
